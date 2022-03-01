@@ -3,7 +3,7 @@ Mapa de rutes per carretera per la comarca catalana del Priorat. Es mostra els t
 
 ![alt text](imatge.jpg)
 
-exemple text [link](http://urv.com)
+exemple text [link](http://www.urv.cat)
 
 ## Tema
 
