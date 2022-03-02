@@ -1,7 +1,7 @@
 # Routes through the Priorat
 Mapa de rutes per carretera per la comarca catalana del Priorat. Es mostra els trams de les rutes, punts d'interés i opinions de restaurants
 
-![alt text](agua.jpg)
+![foto](./agua.jpg)
 
 exemple text [link](http://www.urv.cat)
 
@@ -9,6 +9,7 @@ exemple text [link](http://www.urv.cat)
 prueva de texto en notepad++
 prueva num 2
 prueva num 3
+canvi en online ver local
 ## Dades
 
 ## Estructura
