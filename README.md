@@ -2,7 +2,7 @@
   Mapa de rutes per carretera per la comarca catalana del Priorat. 
   Es mostra els trams de les rutes, punts d'interés i opinions de restaurants
 
-  ![foto](./agua.jpg)
+  ![foto](./images/Bellmunt_del_Priorat.jpg)
 
   exemple link pàgina web [link](http://www.urv.cat)
 
