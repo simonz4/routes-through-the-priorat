@@ -1,10 +1,6 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# GIS related temp files
 
-# Other files and folders
+# files and folders
 .settings/
 
 # Executables
@@ -13,9 +9,15 @@ bin-release/
 *.ipa
 *.apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
-
+# Geopackage temp
 *.gpkg-shm
 *.gpkg-wal
+
+# files temporal memory
+*.temp
+
+# files shp
+*.shp
+*.dbf
+*.shx
+*.wall
