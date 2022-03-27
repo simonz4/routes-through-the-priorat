@@ -15,7 +15,7 @@
   
 ## Dades
   Les dades utilitzades per a la realització de la pàgina web provenen de
-  *("https//www.google.es/maps)* , i de collita pròpia
+  *(https//www.google.es/maps)* , i de collita pròpia
   a través de treball de camp.
  
 ## Estructura
