@@ -15,7 +15,7 @@
   
 ## Dades
   Les dades utilitzades per a la realització de la pàgina web provenen de
-  *<p> <a href= "https//www.google.es/maps"> </a> </P>*, i de collita pròpia
+  *(href= "https//www.google.es/maps)* , i de collita pròpia
   a través de treball de camp.
  
 ## Estructura
@@ -27,9 +27,7 @@
   Cada descripció anirà lligada d'una imatge representativa de l'indret descrit.
   
 ## Web
-  [link]
-  (https://simonz4.github.io/routes-through-the-priorat/)
-  <a href="https://simonz4.github.io/routes-through-the-priorat/">link</a>
+  [Routes through the Priorat](https://simonz4.github.io/routes-through-the-priorat/)
   
 ## Cartografia
   *La cartografía esta realitzad amb el programari lliure QGis 3.16.16*
