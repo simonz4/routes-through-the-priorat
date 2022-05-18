@@ -81,8 +81,13 @@ header{
 .contenido-banner h3 span{
 	/*font-weight: 600;*/
 }
+ 
+/* BODY */
 
-
+.mapeta{
+	padding: 10px 10px;
+	
+}
 
 /* FOOTER */
 
