@@ -15,8 +15,7 @@
   
 ## Dades
   Les dades utilitzades per a la realització de la pàgina web provenen de
-  *(https//www.google.es/maps)* , i de collita pròpia
-  a través de treball de camp.
+  *(https//www.google.es/maps)* , i de Centro Nacional de Información Geogràfica (CNIG). 
  
 ## Estructura
   En aquest apartar, s'explica l'estructura preliminar de la pàgina web.
