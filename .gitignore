@@ -15,4 +15,7 @@
 
 # files temporal memory
 *.temp
+*.bak
+
+
 

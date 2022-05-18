@@ -1,43 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-<title>Rutas en carretera por el Priorat</title>
-
-<meta charset="UTF-8">
-<meta name="viewport" content="witdth=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://github.com/simonz4/routes-through-the-priorat/blob/main/css/index.html">
-
+   <meta charset="UTF-8">
+   <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie-edge">
+   
+   <link rel="stylesheet" href="style.css">
+   <title>Rutas por carretera, comarca del Priorat</title>
 </head>
 <body>
-
-<!-- Navbar -->
-<div>
- <a href="javascript:void(0);" onclick="myFunction()" title="Toggle Navegation Menu"> </a> 
- <a href="#"> Inicio</a>
- <a href="#"> Introducción</a>
- <a href="#"> Mapa</a>
- <a href="#"> Cartografía</a>
- </div>
-
-<!-- Header -->
-<header class="header">
-<h1> Start Page </h1>
-<p> Produccion y diseño cartográfico. Herramientas Web </p>
-</header>
-
-<!-- First Grid -->
-<div>
- <h1> Introducción </h1>
-
-</div>
-
-<!-- Footer -->
-<footer>
- <div>
- <p> URV <a href="https://www.urv.cat/es/"> </a> </p>
- 
- </div>
- 
+   <header>
+        <h2 class="logo">Priorat</h2>
+		<input type="checkbox" id="check">
+		<label for="check" class="mostrar-menu">
+		   &#8801
+		</label>
+		<nav class="menu">
+           <a href="index.html">Inicio</a>
+	       <a href="menu/mapa.html">Mapa</a>
+	       <a href="menu/restaurantes.html">Restaurantes</a>
+	       <a href="menu/destinos.html">Destinos</a>
+	       <a href="menu/contactos.html">Contacto</a>
+	       <label for="check" class="esconder-menu">
+	       &#215
+	       </label>
+        </nav>
+   </header>
+   <section id="banner">
+      <div class="contenido-banner">
+	      <h3><span>Rutas por carretera, comarca del Priorat</span></h3>
+	  </div>
+   </section>
+   <section id="introduccion">
+      <div id="columna-left">
+	       <p><h5>INTRODUCCIÓN</h5><br>El Priorat es una comarca aislada del turismo de masas, que da lugar a las masificaciones que encontrmos en Salou todos los veranos, destino predilecto para los veraneantes 
+              en la provincia que nos ocupa, Tarragona. El Priorat es un destino de baja montanya lleno de pequeños pueblos agrícolas i bosques frondosos típicos del clima mediterranio conectado por múltiples carreteras de curbas,
+	          distribuidos en un mosaico paisagístico digno del patrimonio de la humanidad.
+		   </p>
+	  </div>
+	  <div id="columna-right">
+	      <p><h5>LOCALIZACIÓN</h5><br>
+		     mapeta
+		  </p>
+	  </div>
+   </section>
+   
+   <footer id="footer" class="social-footer">
+      <div class="social-footer-left">
+         <a href="https://www.urv.cat/es/"><img class="logo" src="images/footer-logo.jpg"></a>
+      </div>
+      <div class="social-footer-icons">
+          <ul class="menu simple">
+             <a href="https://www.facebook.com/"><img class="facebook" src="images/facebook.jpg"></a>
+             <a href="https://www.instagram.com/?hl=en"><img class="instagram" src="images/instagram.jpg"></a>
+             <a href="https://www.pinterest.com/"><img class="pinterest" src="images/pinterest.jpg"></a>
+             <a href="https://twitter.com/?lang=en"><img class="twitter" src="images/twitter.jpg"></a>
+          </ul>
+      </div>
+   </footer>
 </body>
 </html>
